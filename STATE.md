@@ -1,9 +1,9 @@
 # STATE
 
 Phase: feature freeze; authorized fixes, rehearsal and submission only
-Updated: 1794160818
-AVAILABLE: HACK-062 HACK-063 HACK-089 HACK-090 
-CLAIMED: HACK-025 
+Updated: 1794160848
+AVAILABLE: HACK-062 HACK-063 HACK-090 
+CLAIMED: HACK-025 HACK-089 
 BLOCKED: -
 REVIEW: HACK-085 HACK-086 HACK-087 HACK-088 
 INTEGRATED: (81; last 12) ... HACK-073 HACK-074 HACK-075 HACK-076 HACK-077 HACK-078 HACK-079 HACK-080 HACK-081 HACK-082 HACK-083 HACK-084 
@@ -15,6 +15,7 @@ HACK-085 | REVIEW | joahan-6 | until 1792563551
 HACK-086 | REVIEW | joahan-3 | until 1792549754
 HACK-087 | REVIEW | joahan-7 | until 1792736597
 HACK-088 | REVIEW | joahan-8 | until 1792735922
+HACK-089 | CLAIMED | sebas-1 | until 1794163548
 
 Blockers: BLOCKED tasks; use status --task ID --summary.
 Current decisions (last 5):

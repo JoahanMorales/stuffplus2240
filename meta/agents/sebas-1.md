@@ -1,0 +1,10 @@
+# sebas-1
+Agent: sebas-1
+Started: 1794160848
+Events: 1
+Events-Since-Checkpoint: 1
+Checkpoints: 0
+Sessions: 1
+Last-Checkpoint: 0
+Last-Session: sebas-1-1794160848
+Updated: 1794160848
